@@ -1,5 +1,9 @@
 # Employee Management System
 
+## Requirements
+
+- python3.11
+
 ## Creating Virtual Environment
 
 1. Run `python3 -m venv venv_name`
